@@ -1,0 +1,13 @@
+Age,Gender,Education level
+18,Male,Undergraduate Programs
+Round,Deck,DcekCount,Win,Lost,Current Money
+1,deckA,1,100,0,2100
+2,deckA,2,100,0,2200
+3,deckA,3,100,150,2150
+4,deckC,1,50,0,2200
+5,deckB,1,100,0,2300
+6,deckA,4,100,0,2400
+7,deckD,1,50,0,2450
+8,deckA,5,100,300,2250
+9,deckA,6,100,0,2350
+10,deckB,2,100,0,2450
